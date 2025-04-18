@@ -1,0 +1,18 @@
+// Copyright 2021 azhizhinov (@azhizhinov)
+// SPDX-License-Identifier: GPL-2.0-or-later
+
+#pragma once
+
+#define HOLD_ON_OTHER_KEY_PRESS_PER_KEY
+#define SERIAL_USART_FULL_DUPLEX
+#define SERIAL_USART_TX_PIN B6
+#define SERIAL_USART_RX_PIN B7
+
+#define MK_COMBINED
+#define MOUSEKEY_INTERVAL 20
+#define MOUSEKEY_MOVE_DELTA 8
+#define MOUSEKEY_MAX_SPEED 10
+#define MOUSEKEY_TIME_TO_MAX 100
+#define MOUSEKEY_WHEEL_DELAY 100
+#define MOUSEKEY_WHEEL_TIME_TO_MAX 100
+#define MOUSEKEY_WHEEL_INTERVAL 80

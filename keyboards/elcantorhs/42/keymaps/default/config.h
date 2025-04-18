@@ -1,0 +1,1 @@
+#define HOzLD_ON_OTHER_KEY_PRESS_PER_KEY
